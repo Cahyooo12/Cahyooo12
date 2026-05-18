@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 
@@ -46,10 +46,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-  <img width="12" />
-  
-  <!-- Design -->
+</div>
+
+###
+
+<h2 align="left">🎨 Design & Tools</h2>
+
+###
+
+<div align="left">
+  <!-- Design & Productivity Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo"  />
 </div>
 
 ###
