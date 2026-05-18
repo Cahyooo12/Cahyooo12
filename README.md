@@ -1,32 +1,78 @@
-### Hey 👋 What's up?
+<h1 align="left">Hey 👋 What's up?</h1>
 
-My name is Cahyo and I'm a Full Stack & App Developer from Yogyakarta 📍
+###
 
-Blending technical precision with an artistic visual touch, I focus on crafting digital experiences that are not just functional, but narrative-driven and impactful. 
+<p align="left">My name is Cahyo and I'm a Full Stack & App Developer from Yogyakarta 📍</p>
 
-#### 👨‍💻 About me
+###
 
-* ✨ **Creating bugs since...** I started diving into Information Systems and exploring the dynamic world of web and mobile development.
-* 📚 **I'm currently learning...** Advanced mobile app development with **Flutter, Dart, and Kotlin**, while continuously refining my UI/UX design skills with modern, clean aesthetics.
-* 🎯 **Goals:** To build scalable, socially impactful platforms (like bringing the *Estafet* application to life!) and to seamlessly bridge the gap between creative visual storytelling and solid code.
-* 🎲 **Fun fact:** I'm deeply passionate about environmental activism and social empowerment. When I'm out of the code editor, you might find me participating in coastal cleanups, exploring eco-innovations, or actively engaging in community development!
+<h2 align="left">👨‍💻 About me</h2>
 
-#### 🛠️ I code with
+###
 
-**Languages & Frameworks:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  ✨ <b>Creating bugs since:</b> I started diving into Information Systems and exploring the dynamic world of web and mobile development.<br><br>
+  📚 <b>I'm currently learning:</b> Advanced mobile app development with Flutter, Dart, and Kotlin, while continuously refining my UI/UX design skills with modern, clean aesthetics.<br><br>
+  🎯 <b>Goals:</b> To build scalable, socially impactful platforms (like the <i>Estafet</i> app!) and to seamlessly bridge the gap between creative visual storytelling and solid code.<br><br>
+  🎲 <b>Fun fact:</b> When I'm out of the code editor, I'm deeply passionate about environmental activism and enjoy participating in creative writing competitions!
+</p>
 
-**Design & Tools:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+###
 
-#### 🌍 Let's Connect!
+<h2 align="left">🛠️ I code with</h2>
 
-* 🌐 **Portfolio:** [cahyodev.my.id](https://www.cahyodev.my.id/)
-* 📧 **Email:** [Cahsirat05@gmail.com](mailto:Cahsirat05@gmail.com)
-* 📸 **Instagram:** [@cahyo_sirat05](https://instagram.com/cahyo_sirat05)
+###
+
+<div align="left">
+  <!-- Web & Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  
+  <!-- Mobile & System -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+  
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">🌍 Let's Connect!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.cahyodev.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:Cahsirat05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/cahyo_sirat05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+###
+
+<br align="left">
+<!-- Tambahan GitHub Stats biar makin keren (Opsional) -->
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</br>
